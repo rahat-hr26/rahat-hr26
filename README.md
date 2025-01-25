@@ -1,3 +1,5 @@
+![logo](https://github.com/rahat-hr26/rahat-hr26/blob/main/WhatsApp%20Image%202024-05-30%20at%207.29.20%20PM.jpeg)
+
 <h1 align="center">Hi 👋, I'm Rahat Hossain</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
 
