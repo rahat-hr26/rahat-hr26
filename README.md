@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm Rahat Hossain</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
-<img align="right" alt="coding" width="400" src="https://github.com/user-attachments/assets/96c424ab-311c-4d44-a80a-f82e8840d497">
+<img align="right" alt="coding" width="400" style="margin="50px"" src="https://github.com/user-attachments/assets/96c424ab-311c-4d44-a80a-f82e8840d497">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rahat-hr26&label=Profile%20views&color=0e75b6&style=flat" alt="rahat-hr26" /> </p>
 
